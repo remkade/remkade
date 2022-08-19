@@ -1,6 +1,6 @@
 # Kyle Leaders
 
-Hey all, I'm Kyle! I'm currently the manager of the Package Building Teams at Anaconda.
+Hey all, I'm Kyle! I'm currently the Director of Engineering of the Conda & Package Building Teams at Anaconda.
 
 I'm always interested in collaboration and meeting new people in the OSS world. Feel free to contact me using [my work email](mailto:kleaders@anaconda.com).
 
