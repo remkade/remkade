@@ -6,4 +6,4 @@ I'm always interested in collaboration and meeting new people in the OSS world. 
 
 Also, we are hiring! 🚀 Check out [our careers page](https://www.anaconda.com/careers) for more info.
 
-Follow me on mastodon: <a rel="me" href="https://fosstodon.org/@kleaders">@kleaders@fosstodon.org</a>
+Follow me on mastodon: <a rel="me" href="https://fosstodon.org/@kleaders">@kleaders@fosstodon</a>
